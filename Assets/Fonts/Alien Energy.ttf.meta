@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ff6650f9daf3c92499538befc2de7d0b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Alien Energy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ad5d66ba97e46fb4c85c6e2d8e1f7165, type: 3}
+  - {fileID: 12800000, guid: fca2c227d0bb53b4faf189e0f2ea33c9, type: 3}
+  - {fileID: 12800000, guid: 9098c785c05355244b5250928ca48c6f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
